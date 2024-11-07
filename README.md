@@ -1,7 +1,7 @@
 # jetson_dli_snowman
 
 ``` bash ```
-<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf">
+<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf"> - jetsonnano 설명
 
 1.sd 카드 포멧터 다운 및 포멧팅
 2. jetack 링크로 다운로드
