@@ -16,23 +16,18 @@
 4 - 1 SD Jetson에 주의하여 꽂기
 
 4 - 2 언어 한글로 설정
-<사진>
 
 4 - 3 싱글보드 컴퓨터 만들고 와이파이 설정
 
 4 - 4 Terminal로 들어간 후 
-명령어 치기 - 한글 설치 <사진>
+
+![image](https://github.com/user-attachments/assets/306b7943-6d94-4bda-8239-472f4ff2ec15)
 
 
 5. jetsonnano 설명
-<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf"> 
+<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf">
+
+
 ![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
 
 
-
-
-
-계정 만들기
-sd카드 기계에 꽂아
-컴퓨터에 꽂아
-다운 받은 이미지를 넣고 굽기(발레나 에처)
