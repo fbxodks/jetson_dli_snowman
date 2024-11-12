@@ -13,13 +13,13 @@
 ![image](https://github.com/user-attachments/assets/14639b00-69c0-4ff1-9d3f-b63ad21ad82c)
 
 
-4 - 1 SD Jetson에 주의하여 꽂기
+4 - 1 SD카드 Jetson에 주의하여 꽂기
 
 4 - 2 언어 한글로 설정
 
 4 - 3 싱글보드 컴퓨터 만들고 와이파이 설정
 
-4 - 4 Terminal로 들어간 후 
+4 - 4 Terminal로 들어간 후 한글 설정을 위해 명령어 입력
 
 ![image](https://github.com/user-attachments/assets/306b7943-6d94-4bda-8239-472f4ff2ec15)
 
