@@ -12,11 +12,6 @@
 3. 발레나 2차 다운해서 이미지 굽기
 <사진>
 
-
-5. jetsonnano 설명
-<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf"> - jetsonnano 설명
-![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
-
 4 - 1 SD Jetson에 주의하여 꽂기
 
 4 - 2 언어 한글로 설정
@@ -26,7 +21,12 @@
 4 - 4 Terminal로 들어간 후 
 명령어 치기 - 한글 설치 <사진>
 
-4 - 5
+
+5. jetsonnano 설명
+<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf"> 
+![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
+
+
 
 
 
