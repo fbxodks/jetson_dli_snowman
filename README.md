@@ -6,7 +6,7 @@
 
 2. jetack 링크로 다운로드
 <사진>
-
+![image](https://github.com/user-attachments/assets/b0c9e79b-654e-4843-b68b-200f917684cf)
 
 
 3. 발레나 2차 다운해서 이미지 굽기
