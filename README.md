@@ -1,15 +1,15 @@
 # jetson_dli_snowman
 
 ``` bash ```
-<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf"> - jetsonnano 설명
 
 1.sd 카드 포멧터 다운 및 포멧팅
 2. jetack 링크로 다운로드
 <사진>
+
 3. 발레나 2차 다운해서 이미지 굽기
 <사진>
 4. jetsonnano 설명
-
+<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf"> - jetsonnano 설명
 4 - 1 SD Jetson에 주의하여 꽂기
 
 4 - 2 언어 한글로 설정
