@@ -37,8 +37,17 @@ dli@dli-desktop:~$ sudo apt install python3-pip
 ![image](https://github.com/user-attachments/assets/e84e6f99-c829-4d35-9a27-0cbaf708e80d)
 
 
-컴퓨터가 물어본다   do you want to continue ? Y
-![image](https://github.com/user-attachments/assets/4141a054-7f39-4419-bf34-ac6f0eb37286
+컴퓨터가 물어본다 do you want to continue ? Y
+![image](https://github.com/user-attachments/assets/58110532-d471-4e10-af3d-b6d1955a2b3b)
+
+dli@dli-desktop:~$  sudo -H pip3 install -U jetson-stats
+![image](https://github.com/user-attachments/assets/06c5a172-b366-42ec-a9e1-83229547630e)
+
+에러가 나올시에 다음 명령어 입력 후 jetson-stats-4.2.3가 써진걸 확인
+sudo apt-get upgrade, sudo apt-get update해준다.
+![image](https://github.com/user-attachments/assets/12584daa-8d56-4652-829c-96207ef536a3)
+
+
 
 
 
