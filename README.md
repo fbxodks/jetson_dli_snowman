@@ -33,7 +33,14 @@
 11/14 카메라 설치
 
 1. 터미널 명령어 창을 열어서 명령어 입력
-sudo apt install python3-pip![image](https://github.com/user-attachments/assets/bb9eefb8-e00d-4966-826f-40f389ea019e)
+dli@dli-desktop:~$ sudo apt install python3-pip
+![image](https://github.com/user-attachments/assets/e84e6f99-c829-4d35-9a27-0cbaf708e80d)
+
+
+컴퓨터가 물어본다   do you want to continue ? Y
+![image](https://github.com/user-attachments/assets/4141a054-7f39-4419-bf34-ac6f0eb37286
+
+
 
 
 
