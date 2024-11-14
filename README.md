@@ -67,6 +67,7 @@ dli@dli-desktop:~$ git clone https://github.com/jetsonhacks/USB-Camera.git
 ![image](https://github.com/user-attachments/assets/23288863-5e64-48e1-b474-933ea5a25538)
 
 *주의* CSI일시에 USB말고 CSI를 검색하여 명령어 가져오기
+
 명령어 차례로 입력
 dli@dli-desktop:~$ cd USB-Camera
 
