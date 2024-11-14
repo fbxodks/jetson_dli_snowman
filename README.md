@@ -2,6 +2,13 @@
 
 ``` bash ```
 
+1. jetsonnano 설명
+<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf">
+
+
+![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
+
+
 1.sd 카드 포멧터 다운 및 포멧팅
 
 2. jetpack 링크로 다운로드
@@ -23,11 +30,10 @@
 
 ![image](https://github.com/user-attachments/assets/306b7943-6d94-4bda-8239-472f4ff2ec15)
 
+11/14 카메라 설치
 
-5. jetsonnano 설명
-<img width="341" alt="산인지 사진" src="https://github.com/user-attachments/assets/672157bf-d31a-4bb6-b349-41d23cd8ccaf">
+1. 터미널 명령어 창을 열어서 명령어 입력
+sudo apt install python3-pip![image](https://github.com/user-attachments/assets/bb9eefb8-e00d-4966-826f-40f389ea019e)
 
-
-![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
 
 
