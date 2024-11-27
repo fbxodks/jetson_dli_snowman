@@ -108,7 +108,7 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 
 도커설치 방법
 
-다음 코드로 순서대로 진행
+다음 코드를 순서대로 터미널에서 진행
 
 
 <img width="690" alt="도커 사진1" src="https://github.com/user-attachments/assets/cf5e6646-efe7-45c0-b221-72903cf53251">
