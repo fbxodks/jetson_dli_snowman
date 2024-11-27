@@ -96,7 +96,6 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 
 도커설치 방법
 
-
 다음 코드로 순서대로 진행
 
 
@@ -107,6 +106,18 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 <img width="935" alt="도커 사진 3" src="https://github.com/user-attachments/assets/a65ff9f0-4f78-4e0b-b6ac-c3e2ce382763">
 
 <img width="977" alt="도커 사진 4" src="https://github.com/user-attachments/assets/f763b587-bf6a-46a0-b4eb-22404198c6b8">
+
+도커를 설치하는 이유는 classfication을 진행할 때 메모리가 부족할 수 있기 때문에 여유 저장공간을 만들기 위함이다.
+
+도커 설치후 주피터 접속하여 thumb up 샘플 30개 thumb down 샘플 30개 만들고 epoch 10으로 해서 학습시키기
+
+
+
+
+
+
+
+
 
 
 
