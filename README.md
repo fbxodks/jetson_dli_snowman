@@ -69,6 +69,9 @@ dli@dli-desktop:~$ git clone https://github.com/jetsonhacks/USB-Camera.git
 *주의* CSI일시에 USB말고 CSI를 검색하여 명령어 가져오기
 
 명령어 차례로 입력
+
+
+
 dli@dli-desktop:~$ cd USB-Camera
 
 dli@dli-desktop:~/USB-Camra$ ls
@@ -77,12 +80,21 @@ dli@dli-desktop:~/USB-Camera$ python3 usb-camera-gst.py
 
 dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py
 
+
+
+
 다음과 같이 카메라가 얼굴을 인식하는지 확인
 ![image](https://github.com/user-attachments/assets/39740e04-6bb8-4318-ad4f-574d14d62913)
 
 11/21 헤드리스 모드 설정
 헤드리스 모드란?
+헤드리스 모드 jetson nano에 대한 이미지 검색결과 Headless mode 인 경우 Jetson은 모니터나 키보드가 필요하지 않습니다.
+gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스' 모드라고 함). 
+
+#추가설명
 ![image](https://github.com/user-attachments/assets/18eca900-9251-4ccd-8cb4-c08511e84978)
+
+도커설
 
 
 
