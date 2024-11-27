@@ -11,7 +11,9 @@ jetsonnano 설명
 
 1.sd 카드 포멧터 다운 및 포멧팅
 
-2. jetpack 링크로 다운로드
+
+
+2. jetack 링크로 다운로드
 <사진>
 ![image](https://github.com/user-attachments/assets/b0c9e79b-654e-4843-b68b-200f917684cf)
 
