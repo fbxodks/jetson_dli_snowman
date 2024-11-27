@@ -111,10 +111,14 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 
 도커 설치후 주피터 접속하여 thumb up 샘플 30개 thumb down 샘플 30개 만들고 epoch 10으로 해서 학습시키기
 
+![KakaoTalk_20241127_153504469_01](https://github.com/user-attachments/assets/e2255b4a-8e66-401f-b199-0ad48c54ea02)
+
+![KakaoTalk_20241127_153504469_03](https://github.com/user-attachments/assets/4880e169-da9a-4186-a97a-5d4d2330b087)
 
 
 
 
+이미지를 학습 시킨 후 카메라에 손을 가져다 대어 up으로 인식하는지, down으로 인식하는지 실행해본다. 
 
 
 
