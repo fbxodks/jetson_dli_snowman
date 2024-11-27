@@ -94,7 +94,17 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 #추가설명
 ![image](https://github.com/user-attachments/assets/18eca900-9251-4ccd-8cb4-c08511e84978)
 
-도커설
+도커설치 방법
+
+다음 코드로 순서대로 진행
+<img width="690" alt="도커 사진1" src="https://github.com/user-attachments/assets/cf5e6646-efe7-45c0-b221-72903cf53251">
+
+<img width="898" alt="도커 사진 2" src="https://github.com/user-attachments/assets/49d5b9bf-3b8b-4da6-972f-0f5bf01a1033">
+
+<img width="935" alt="도커 사진 3" src="https://github.com/user-attachments/assets/a65ff9f0-4f78-4e0b-b6ac-c3e2ce382763">
+
+<img width="977" alt="도커 사진 4" src="https://github.com/user-attachments/assets/f763b587-bf6a-46a0-b4eb-22404198c6b8">
+
 
 
 
