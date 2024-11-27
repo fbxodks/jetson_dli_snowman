@@ -80,6 +80,8 @@ dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py
 다음과 같이 카메라가 얼굴을 인식하는지 확인
 ![image](https://github.com/user-attachments/assets/39740e04-6bb8-4318-ad4f-574d14d62913)
 
+11/21 헤드리스 모드 설정
+![image](https://github.com/user-attachments/assets/18eca900-9251-4ccd-8cb4-c08511e84978)
 
 
 
