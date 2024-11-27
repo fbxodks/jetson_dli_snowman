@@ -16,7 +16,7 @@ jetsonnano 설명
 ![image](https://github.com/user-attachments/assets/b0c9e79b-654e-4843-b68b-200f917684cf)
 
 
-3. 발레나 2차 다운해서 이미지 굽기
+3. 발레나 에처 다운해서 이미지 굽기
 ![image](https://github.com/user-attachments/assets/14639b00-69c0-4ff1-9d3f-b63ad21ad82c)
 
 
