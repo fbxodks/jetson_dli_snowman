@@ -30,30 +30,36 @@ jetsonnano 설명
 
 ![image](https://github.com/user-attachments/assets/306b7943-6d94-4bda-8239-472f4ff2ec15)
 
-11/14 카메라 설치
+11/14 
+
+카메라 설치 방법
 
 1. 터미널 명령어 창을 열어서 명령어 입력
 dli@dli-desktop:~$ sudo apt install python3-pip
 ![image](https://github.com/user-attachments/assets/e84e6f99-c829-4d35-9a27-0cbaf708e80d)
 
 
-컴퓨터가 물어본다 do you want to continue ? Y
+컴퓨터가 다음과 같이 물어보면 do you want to continue ? Y  Y라고 답한다.
 ![image](https://github.com/user-attachments/assets/58110532-d471-4e10-af3d-b6d1955a2b3b)
 
-dli@dli-desktop:~$  sudo -H pip3 install -U jetson-stats
+ 다음 명령어 실행 - dli@dli-desktop:~$  sudo -H pip3 install -U jetson-stats
 ![image](https://github.com/user-attachments/assets/06c5a172-b366-42ec-a9e1-83229547630e)
 
 에러가 나올시에 다음 명령어 입력 후 jetson-stats-4.2.3가 써진걸 확인
 sudo apt-get upgrade, sudo apt-get update해준다.
 ![image](https://github.com/user-attachments/assets/12584daa-8d56-4652-829c-96207ef536a3)
 
-확인후에 reboot 진행
+확인후에 reboot를 진행하여 카메라를 설치한다.
 
 2. 온도가 높을시에 쿨링팬 설치
 ![image](https://github.com/user-attachments/assets/84b4d553-a47b-4153-929b-02688b59d931)
+
 터미널을 열고 명령어를 쳐본다.
 sudo sh -c 'echo 128 > /sys/devices/pwm-fan/target_pwm'
 ![image](https://github.com/user-attachments/assets/6022b9a2-d81f-49f9-95b7-dd65cf2b6f6b)
+
+해당 명령어 입력시 온도가 감소하는 것을 확인 할 수 있다.
+
 
 3. 젯슨이 카메라를 인식하는지 다음 명령어를 통하여 확인한다.
 
@@ -107,7 +113,7 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 
 <img width="977" alt="도커 사진 4" src="https://github.com/user-attachments/assets/f763b587-bf6a-46a0-b4eb-22404198c6b8">
 
-도커를 설치하는 이유는 classfication을 진행할 때 메모리가 부족할 수 있기 때문에 여유 저장공간을 만들기 위함이다.
+*도커를 설치하는 이유는 classfication을 진행할 때 메모리가 부족할 수 있기 때문에 여유 저장공간을 만들기 위함이다.*
 
 도커 설치후 주피터 접속하여 thumb up 샘플 30개 thumb down 샘플 30개 만들고 epoch 10으로 해서 학습시키기
 
@@ -119,6 +125,7 @@ gui가 없이 젯슨의 화면은 검정색이 됩니다. (이를 '헤드리스'
 
 
 이미지를 학습 시킨 후 카메라에 손을 가져다 대어 up으로 인식하는지, down으로 인식하는지 실행해본다. 
+다음과 같이 젯슨을 학습시켜 이미지 분류 시스템을 만들 수 있다.
 
 
 
