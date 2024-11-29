@@ -8,9 +8,8 @@
 
 ![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
 
-
+## 11/7 잿슨 설치 과정
 1.sd 카드 포멧터 다운 및 포멧팅
-
 
 
 2. jetack 링크로 다운로드
@@ -32,9 +31,7 @@
 
 ![image](https://github.com/user-attachments/assets/306b7943-6d94-4bda-8239-472f4ff2ec15)
 
-11/14 
-
-카메라 설치 방법
+## 11/14 카메라 설치 방법
 
 1. 터미널 명령어 창을 열어서 명령어 입력
 dli@dli-desktop:~$ sudo apt install python3-pip
@@ -94,7 +91,7 @@ dli@dli-desktop:~/USB-Camera$  python3 face-detect-usb.py
 다음과 같이 카메라가 얼굴을 인식하는지 확인
 ![image](https://github.com/user-attachments/assets/39740e04-6bb8-4318-ad4f-574d14d62913)
 
-11/21 헤드리스 모드 설정
+## 11/21 헤드리스 모드 설정 및 claasification
 
 
 헤드리스 모드란?
