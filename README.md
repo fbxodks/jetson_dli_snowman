@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/402426fd-2d12-49c2-90df-da9111d3cdcf)
 
-## 11/7 잿슨 설치 과정
+## 11/7 잿슨 나노 설치 과정
 1.sd 카드 포멧터 다운 및 포멧팅
 
 
